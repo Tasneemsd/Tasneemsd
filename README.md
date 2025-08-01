@@ -20,7 +20,7 @@ Currently, I'm actively preparing for placements and always open to new learning
 - **Backend:** Node.js, Express.js, REST APIs
 - **Database:** MongoDB, Firebase
 - **Mobile:** React Native
-- **Tools:** Git & GitHub, Figma (UI/UX), VS Code
+- **Tools:** Git & GitHub, VS Code
 
 ---
 
